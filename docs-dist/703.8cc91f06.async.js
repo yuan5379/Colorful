@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkColorful=self.webpackChunkColorful||[]).push([[703],{93703:function(s,n,o){o.r(n),o.d(n,{Foo:function(){return l}});var f=o(67294),u=o(85893),t=function(r){return(0,u.jsx)("h4",{children:r.title})},l=t}}]);
